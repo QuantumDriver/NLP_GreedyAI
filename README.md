@@ -3,7 +3,7 @@
 - **由于Github的md文件无法显示LaTex公式，建议下载到本地进行浏览**
 ---
 ### 作业
-- [Assignment1](https://github.com/QuantumDriver/NLP_GreedyAI/blob/master/Assignment1.ipynb): 编辑距离，分词，过滤(stop-words,stemming)，TF_IDF
+- [Assignment1](https://github.com/QuantumDriver/NLP_GreedyAI/blob/master/Assignment1.ipynb): 编辑距离，分词，过滤(stop-words,stemming)，TF-IDF
 - [Project1]()：
 ---
 ### 笔记
